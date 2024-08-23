@@ -1,1 +1,1 @@
-# odin-recies
+# odin-recies in this project i will demonstrate, the use of paragraphs to seperate the space,the use of images to make the website interactive,the use of headings,unodered and odered list,the use of relative path to link the files in the local folder.

@@ -1,0 +1,15 @@
+.alph,
+.bit,
+.tan {
+color: pink;
+background-color: black;
+font-size: 48px;
+font-weight: bolder;
+text-align: center;
+}
+.tk{
+    background-color: aqua;
+    color: black;
+    font-size: 24px;
+    text-align: center;
+}
